@@ -1,4 +1,4 @@
-def gen(num):
+def generator(num):
     a = 0
     b =1
     index = 0
@@ -7,7 +7,7 @@ def gen(num):
         a, b = b, a+b
         index +=1
 
-f = gen(10)
+f = generator(10)
 try:
     while True:
         i = next(f)

@@ -33,8 +33,8 @@ def get_old_and_new_path():
 
 
 if __name__ == '__main__':
-    original_directory = 'C:/Users\牛奶加冰\Pictures\Screenshots'
-    newfilepath = 'C:/Users/牛奶加冰/Desktop/2'
+    original_directory = 'C:/Users/牛奶加冰/Desktop/2'
+    newfilepath = 'C:/Users\牛奶加冰\Pictures/Screenshots'
     oldpathlist = []
     get_old_and_new_path()
     for k in oldpathlist:

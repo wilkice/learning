@@ -1,3 +1,5 @@
+'''random ralk using matplotlib'''
+
 from random import choice
 import matplotlib.pyplot as plt
 
@@ -22,7 +24,23 @@ class RandomWalk():
             self.y.append(y_point)
 
 
-random_walk1 = RandomWalk()
-random_walk1.fill_random_walk()
-plt.scatter(random_walk1.x, random_walk1.y, s=1, edgecolors='none')
-plt.show()
+if __name__ == '__main__':
+    random_walk1 = RandomWalk(8000)
+    random_walk1.fill_random_walk()
+    # set the size of graph
+    plt.figure(dpi=267, figsize=(9, 5))
+    plt.scatter(random_walk1.x, random_walk1.y, s=3, c=random_walk1.y,
+                cmap=plt.cm.Blues,
+                edgecolors='none')  # s:size of dot; c=(0,0,0.8) 0-1 0 means more or c =list(color by the order it appears) for color fade in.cmap  color fade in
+    plt.title('random walk', fontsize=10)
+    plt.xlabel('times')
+    # show the initial dot(red) and last dot(green)
+    plt.scatter(random_walk1.x[0], random_walk1.y[0], c='red', s=20)
+    plt.scatter(random_walk1.x[-1], random_walk1.y[-1], c='green', s=20)
+
+    # hide the  x axis
+    plt.axes().get_xaxis().set_visible(False)
+
+    plt.show()
+    # plt.savefig('3.png',
+    #             bbox_inches='tight')  # use bbox_inches if the blank area isn't wanted

@@ -7,6 +7,8 @@
 * [deeplearning.mit.edu](https://deeplearning.mit.edu/)
 
 # 学习平台
+* [Coursera](https://www.coursera.org/)
+* [Stanford Online](https://online.stanford.edu/courses)
 * [DataCamp](https://www.datacamp.com/)
 * [Kaggle](https://www.kaggle.com/)
 * [Medium](https://medium.com/)

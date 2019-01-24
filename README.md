@@ -1,4 +1,8 @@
 # 一些我在自学过程中认为比较好的资源
+
+# 教程
+* [YOLO](https://pjreddie.com/darknet/yolo/) and it's [github](https://github.com/AlexeyAB/darknet)
+
 # 课程及书籍
 * [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) by Stanford University

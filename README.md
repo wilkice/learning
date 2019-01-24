@@ -14,3 +14,6 @@
 * [Medium](https://medium.com/)
 * [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 * [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)
+
+# 其他好物
+* [提升招聘体验-Riminder](https://www.riminder.net/)

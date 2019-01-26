@@ -1,8 +1,11 @@
 #!/bin/bash
 # opencv安装依赖
 
-apt install build-essential cmake git libgtk2.0-dev pkg-config libavcodec-dev libavformat-dev
+# compiler
+apt install build-essential 
 
-apt install libjpeg-dev libpng-dev libtiff-dev  libswscale-dev python-dev python-numpy libtbb2 libtbb-dev
+#required
+apt install cmake git libgtk2.0-dev pkg-config libavcodec-dev libavformat-dev
 
-apt install libdc1394-22-dev libtiff5-dev
+# optional
+apt install python-dev python-numpy libtbb2 libtbb-dev libjpeg-dev libpng-dev libtiff-dev libjasper-dev libdc1394-22-dev

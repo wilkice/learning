@@ -23,3 +23,4 @@
 * [提升招聘体验-Riminder](https://www.riminder.net/)
 * [Drift](https://www.drift.com/)  -- 客户咨询
 * [Vectordash](https://vectordash.com/)  --共享GPU平台
+* [PDFDRIVE](https://www.pdfdrive.com/)  --PDF下载平台

@@ -19,6 +19,9 @@
 * [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 * [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)
 
+# 数据分析工具
+* confusion matrix
+
 # 其他好物
 * [提升招聘体验-Riminder](https://www.riminder.net/)
 * [Drift](https://www.drift.com/)  -- 客户咨询

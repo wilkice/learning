@@ -28,3 +28,4 @@
 * [Drift](https://www.drift.com/)  -- 客户咨询
 * [Vectordash](https://vectordash.com/)  --共享GPU平台
 * [PDFDRIVE](https://www.pdfdrive.com/)  --PDF下载平台
+* [forum--discourse](https://www.discourse.org/)

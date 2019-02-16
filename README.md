@@ -22,6 +22,7 @@
 # 数据分析工具
 * confusion matrix
 * boxplot
+* [featuretools](https://www.featuretools.com/)
 
 # 其他好物
 * [提升招聘体验-Riminder](https://www.riminder.net/)

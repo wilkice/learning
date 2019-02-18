@@ -16,4 +16,5 @@ PasswordAuthentication yes`
 2. Use `bash Miniconda3-latest-MacOSX-x86_64.sh` to install Miniconda, [reference](https://docs.conda.io/projects/continuumio-conda/en/latest/user-guide/install/macos.html)
 3. Install [pytorch](https://pytorch.org/get-started/locally/)
 4. [CPU only](https://docs.fast.ai/install.html)
-5. [Jupyter notebook](https://docs.fast.ai/install.html#jupyter-notebook-dependencies)
+5. [Virtual env](https://docs.fast.ai/install.html#virtual-environment)
+6. [Jupyter notebook](https://docs.fast.ai/install.html#jupyter-notebook-dependencies)

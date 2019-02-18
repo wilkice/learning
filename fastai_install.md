@@ -18,3 +18,5 @@ PasswordAuthentication yes`
 4. [CPU only](https://docs.fast.ai/install.html)
 5. [Virtual env](https://docs.fast.ai/install.html#virtual-environment)
 6. [Jupyter notebook](https://docs.fast.ai/install.html#jupyter-notebook-dependencies)
+7. set tcp 8888 bypass firewall on GCP, and [set remore access](https://www.jianshu.com/p/9a0177a197ae) and [this](https://stackoverflow.com/a/43500232)
+8. set [passwd](https://blog.csdn.net/lm19770429/article/details/78762324) of jyputer notebook, also [this](https://www.jianshu.com/p/4ab87736d68a)

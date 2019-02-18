@@ -15,3 +15,4 @@ PasswordAuthentication yes`
 1. Download [miniconda](https://docs.conda.io/en/latest/miniconda.html)
 2. Use `bash Miniconda3-latest-MacOSX-x86_64.sh` to install Miniconda, [reference](https://docs.conda.io/projects/continuumio-conda/en/latest/user-guide/install/macos.html)
 3. Install [pytorch](https://pytorch.org/get-started/locally/)
+4. [CPU only](https://docs.fast.ai/install.html)

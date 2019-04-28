@@ -11,6 +11,12 @@
 * [deeplearning.mit.edu](https://deeplearning.mit.edu/)
 * [fast.ai](https://www.fast.ai/) and it's [forum](https://forums.fast.ai/)
 
+# Books
+[![](https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fi.gr-assets.com%2Fimages%2FS%2Fcompressed.photo.goodreads.com%2Fbooks%2F1490810628i%2F24072897._UY630_SR1200%2C630_.jpg&f=1)](https://github.com/janishar/mit-deep-learning-book-pdf)
+[![ISL](https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Ffreecomputerbooks.com%2Fcovers%2FAn-Introduction-to-Statistical-Learning.jpg&f=1)](https://www-bcf.usc.edu/~gareth/ISL/)
+[![](https://web.stanford.edu/~hastie/ElemStatLearn/CoverII_small.jpg)](https://web.stanford.edu/~hastie/ElemStatLearn/)
+
+
 # Platforms
 * [Coursera](https://www.coursera.org/)
 * [Stanford Online](https://online.stanford.edu/courses)

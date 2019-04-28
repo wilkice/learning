@@ -25,6 +25,7 @@
 * [Medium](https://medium.com/)
 * [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 * [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)
+* [Google Cloud](https://cloud.google.com/) ([set up tutorial](https://github.com/cs231n/gcloud))
 
 # Useful Tools
 * confusion matrix

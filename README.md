@@ -12,9 +12,10 @@
 * [fast.ai](https://www.fast.ai/) and it's [forum](https://forums.fast.ai/)
 
 # Books
-[![](https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fi.gr-assets.com%2Fimages%2FS%2Fcompressed.photo.goodreads.com%2Fbooks%2F1490810628i%2F24072897._UY630_SR1200%2C630_.jpg&f=1)](https://github.com/janishar/mit-deep-learning-book-pdf)
-[![ISL](https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Ffreecomputerbooks.com%2Fcovers%2FAn-Introduction-to-Statistical-Learning.jpg&f=1)](https://www-bcf.usc.edu/~gareth/ISL/)
-[![](https://web.stanford.edu/~hastie/ElemStatLearn/CoverII_small.jpg)](https://web.stanford.edu/~hastie/ElemStatLearn/)
+* [Deep Learning](https://github.com/janishar/mit-deep-learning-book-pdf) by [Ian Goodfellow](http://www.iangoodfellow.com/)
+* [An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/)
+* [The Elements of 
+Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 
 
 # Platforms
@@ -25,11 +26,9 @@
 * [Medium](https://medium.com/)
 * [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 * [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)
-* [Google Cloud](https://cloud.google.com/) ([set up tutorial](https://github.com/cs231n/gcloud))
+* [Google Cloud](https://cloud.google.com/) ([Set up Tutorial](https://github.com/cs231n/gcloud))
 
 # Useful Tools
-* confusion matrix
-* boxplot
 * [featuretools](https://www.featuretools.com/)
 * [twilio](https://www.twilio.com)
 * [Dailycodingproblem](https://www.dailycodingproblem.com/)
@@ -37,7 +36,8 @@
 # Shared GPU
 * [paperspace](https://www.paperspace.com)
 * [vast.ai](https://vast.ai/)
-* [Vectordash](https://vectordash.com/) 
+* [Vectordash](https://vectordash.com/)
+* [Google Colab](https://colab.research.google.com/)
 
 # Other
 * [提升招聘体验-Riminder](https://www.riminder.net/)

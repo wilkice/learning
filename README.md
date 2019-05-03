@@ -37,7 +37,7 @@ Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 ## 1. FireFox and Add-ons
 Vimium, Adblock Plus, DuckDuckGo, Saladict, Pocket
 ## 2. Cli
-Rclone, Aria2, Youtube-dl
+Rclone, Aria2, Youtube-dl, zsh,
 ## 3. Desktop Software
 * Vs Code
 * Anki

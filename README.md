@@ -33,12 +33,27 @@ Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 * [twilio](https://www.twilio.com)
 * [Dailycodingproblem](https://www.dailycodingproblem.com/)
 
+# Must install for Linux
+## 1. FireFox and Add-ons
+Vimium, Adblock Plus, DuckDuckGo, Saladict, Pocket
+## 2. Cli
+Rclone, Aria2, Youtube-dl
+## 3. Desktop Software
+* Vs Code
+* Anki
+* Spotify
+* Slack
+* Telegram
+* Typora
+
+
 # Shared GPU
 * [paperspace](https://www.paperspace.com)
 * [vast.ai](https://vast.ai/)
 * [Vectordash](https://vectordash.com/)
 * [Google Colab](https://colab.research.google.com/)
 
+# 
 # Other
 * [提升招聘体验-Riminder](https://www.riminder.net/)
 * [Drift](https://www.drift.com/)  

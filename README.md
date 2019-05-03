@@ -45,6 +45,17 @@ Rclone, Aria2, Youtube-dl
 * Slack
 * Telegram
 * Typora
+* [PicGo](https://github.com/Molunerfinn/PicGo)
+
+# Windows software(may outdated)
+* PicGo
+* Potplayer
+* [mathpix](https://mathpix.com/)
+* IDM
+* QuickLook
+* [Rufus](https://rufus.ie)
+* [MobaXterm](https://mobaxterm.mobatek.net/)
+* Snipaste
 
 
 # Shared GPU

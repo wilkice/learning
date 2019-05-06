@@ -33,11 +33,11 @@ Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 * [twilio](https://www.twilio.com)
 * [Dailycodingproblem](https://www.dailycodingproblem.com/)
 
-# Must install for Linux
+# Must install for Linux :smile:
 ## 1. FireFox and Add-ons
 Vimium, Adblock Plus, DuckDuckGo, Saladict, Pocket
 ## 2. Cli
-Rclone, Aria2, Youtube-dl, zsh,
+Rclone, Aria2, Youtube-dl, zsh(zsh-autosuggestions)
 ## 3. Desktop Software
 * Vs Code
 * Anki
@@ -45,6 +45,8 @@ Rclone, Aria2, Youtube-dl, zsh,
 * Slack
 * Telegram
 * Typora
+* [Rambox](https://rambox.pro/)
+* [FeedReader](https://jangernert.github.io/FeedReader/)
 * [PicGo](https://github.com/Molunerfinn/PicGo)
 
 # Windows software(may outdated)

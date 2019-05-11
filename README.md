@@ -1,4 +1,4 @@
-# Great sources I came across when self-learning
+# Great sources I came across when self-learning :smile:
 
 # Algorithms
 * [YOLO](https://pjreddie.com/darknet/yolo/) and it's [github](https://github.com/AlexeyAB/darknet)

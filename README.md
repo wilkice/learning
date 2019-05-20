@@ -13,6 +13,7 @@
 * [An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/)
 * [The Elements of 
 Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+* [gatesnotes](https://www.gatesnotes.com/Books): Book recommendation by Bill Gates.
 
 
 # Platforms

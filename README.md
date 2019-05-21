@@ -1,7 +1,4 @@
-# Great sources I came across when self-learning
-
-# Algorithms
-* [YOLO](https://pjreddie.com/darknet/yolo/) and it's [github](https://github.com/AlexeyAB/darknet)
+# Great sources I came across when self-learning :smiley:
 
 # Courses
 * [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
@@ -16,6 +13,7 @@
 * [An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/)
 * [The Elements of 
 Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+* [gatesnotes](https://www.gatesnotes.com/Books): Book recommendation by Bill Gates.
 
 
 # Platforms
@@ -26,19 +24,20 @@ Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 * [Medium](https://medium.com/)
 * [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 * [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)
-* [Google Cloud](https://cloud.google.com/) ([Set up Tutorial](https://github.com/cs231n/gcloud))
+* [GeeksforGeeks](https://www.geeksforgeeks.org/)
+* [JDOODLE](https://www.jdoodle.com/): Easy and Quick way to compile and run Programs Online
 
 # Useful Tools
 * [featuretools](https://www.featuretools.com/)
 * [twilio](https://www.twilio.com)
 * [Dailycodingproblem](https://www.dailycodingproblem.com/)
 
-# Must install for Linux :smile:
+# Must install for Linux(Manjaro) :smile:
 ## 1. FireFox and Add-ons
 Vimium, Adblock Plus, DuckDuckGo, Saladict, Pocket
 ## 2. Cli
 Rclone, Aria2, Youtube-dl, zsh(zsh-autosuggestions)
-## 3. Desktop Software
+## 3. Software
 * Vs Code
 * Anki
 * Spotify
@@ -66,8 +65,8 @@ Rclone, Aria2, Youtube-dl, zsh(zsh-autosuggestions)
 * [vast.ai](https://vast.ai/)
 * [Vectordash](https://vectordash.com/)
 * [Google Colab](https://colab.research.google.com/)
+* [Google Cloud](https://cloud.google.com/) ([Set up Tutorial](https://github.com/cs231n/gcloud))
 
-# 
 # Other
 * [提升招聘体验-Riminder](https://www.riminder.net/)
 * [Drift](https://www.drift.com/)  

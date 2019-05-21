@@ -1,4 +1,4 @@
-# Great sources I came across when self-learning :smiley:
+# Waiting for your pr :smiley:
 
 # Courses
 * [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)

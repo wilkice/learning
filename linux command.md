@@ -1,7 +1,7 @@
 # Linux Command
 
 ## To get help of specific command, use `man [command]`
-
+`screenfetch` : show system info
 `cal` : print a calendar on screen
 `nohup` : enables a process to continue running in the background when exits a shell
 `&` : run process from background

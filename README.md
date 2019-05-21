@@ -52,6 +52,7 @@ Rclone, Aria2, Youtube-dl, zsh(zsh-autosuggestions)
 # Windows software(may outdated)
 * PicGo
 * Potplayer
+* [Knotes](http://knotesapp.com/)
 * [mathpix](https://mathpix.com/)
 * IDM
 * QuickLook
